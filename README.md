@@ -193,14 +193,14 @@ class TradingAgent:
 ## 💼 Professional Journey
 
 ### 🌟 **Founder & CTO - Enlightir** *(2022 - Present)*
-- Built and scaled AI-first technology company
+- Built and scaled an AI-first technology company
 - Led development of 50+ ML models in production
 - Managed team of 12+ engineers and data scientists
-- Generated $1.5M+ in annual recurring revenue
+- Generated $ 1.5 M+ in annual recurring revenue
 
 ### 🔬 **Senior ML Engineer - Previous Role** *(2020 - 2022)*
-- Developed production ML pipelines processing 10M+ data points daily
-- Implemented MLOps practices reducing deployment time by 60%
+- Developed production ML pipelines processing 10 M+ data points daily
+- Implemented MLOps practices, reducing deployment time by 60%
 - Mentored junior engineers and conducted technical interviews
 
 ---
@@ -240,10 +240,10 @@ class TradingAgent:
 <div align="center">
   <h3>🚀 Ready to discuss AI, ML, or your next big project?</h3>
   
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princewill@enlightir.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/princewill-emeh)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/princewill_emeh)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/princewill-emeh)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:princewillemeh@enlightir.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/princewill-emeh-connects)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/emeh_princewill)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Emehprincewill)
   [![Enlightir](https://img.shields.io/badge/Enlightir-Website-00D4AA?style=for-the-badge&logo=About.me&logoColor=white)](https://enlightir.com)
   
   <br/>
